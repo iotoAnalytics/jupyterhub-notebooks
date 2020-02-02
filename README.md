@@ -16,7 +16,7 @@ Login at:
 http://ec2-52-12-213-59.us-west-2.compute.amazonaws.com<br/>
 The first time you login, you will be setting your password.
 
-#### 2) Pull notebooks from this repository
+#### 2) Clone this repository
 
 i) From the JupyterHub homepage, open up a new terminal by clicking: _New > Terminal_<br/>
 ii) Type the following into the new terminal window:<br/>
