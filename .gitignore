@@ -1,0 +1,17 @@
+# Home directory
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.profile
+.viminfo
+
+# Git
+.gitconfig
+
+# Database connection info
+connection_info.json
