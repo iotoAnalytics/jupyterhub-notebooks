@@ -1,5 +1,6 @@
 # JupyterHub Notebooks
-Hosted on an AWS medium EC2 instance (Name: jupyter-hub-medium) with 4GB of memory.
+Hosted on an AWS medium EC2 instance (Name: jupyter-hub-medium) with 4GB of memory:<br/>
+http://ec2-52-12-213-59.us-west-2.compute.amazonaws.com/
 
 ## Why
 
@@ -21,7 +22,7 @@ http://ec2-52-12-213-59.us-west-2.compute.amazonaws.com/hub/admin
 #### 1) Login
 
 Login page:
-http://ec2-52-12-213-59.us-west-2.compute.amazonaws.com<br/>
+http://ec2-52-12-213-59.us-west-2.compute.amazonaws.com/hub/login<br/>
 The first time you login, you're setting your password.
 
 #### 2) Clone this repository
